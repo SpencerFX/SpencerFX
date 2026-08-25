@@ -24,9 +24,14 @@ Active open-source contributor and tooling author.
 
 - [lean-kdb](https://github.com/SpencerFX/lean-kdb) [Public] a kdb+ integration layer for the open-source QuantConnect LEAN engine
 
-### Documentation
+### Community
 
 - [q-link](https://github.com/SpencerFX/q-link) [Public] code companion repo for LinkedIn articles on kdb+/q
+- [q-Quiz](https://github.com/SpencerFX/q-Quiz) [Public] coding practice and interview prep, mostly in q
+
+### Trading Strategy
+
+- [Algorithmic-Trading-Strategies](https://github.com/SpencerFX/Algorithmic-Trading-Strategies) [Public] Momentum-based trading strategy coded in Lua
 
 ### Library
 
@@ -34,12 +39,14 @@ Active open-source contributor and tooling author.
 - [q-gis](https://github.com/SpencerFX/q-gis) [Public] kdb+/q geospatial tooling
 
 ## Interview Prep
-- [q-Quiz](https://github.com/SpencerFX/q-Quiz) [Public] coding practice and interview prep, mostly in q
+
 - [HackerRankQ](https://github.com/SpencerFX/HackerRankQ) [Public]
 - [leetcodeQ](https://github.com/SpencerFX/leetcodeQ) [Public]
 - [interviewQ](https://github.com/SpencerFX/interviewQ) [Public] 
 
 ## Math Studies
+
+- [eulerQ](https://github.com/SpencerFX/eulerQ) [Public]
 - [matrixAlgebraForEngineersQ](https://github.com/SpencerFX/matrixAlgebraForEngineersQ) [Public]
 - [q-math-calculus](https://github.com/SpencerFX/q-math-calculus) [Public] self-study notes and exercises in kdb+/q
 - [Itarle-Challenge](https://github.com/SpencerFX/Itarle-Challenge) [Public] a quant recruitment take-home exercise
