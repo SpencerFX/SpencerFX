@@ -10,22 +10,39 @@ Active open-source contributor and tooling author.
 
 ## Open Source Projects
 
-- [openQ](https://github.com/SpencerFX/openQ), a lightweight, domain-generic kdb+ tick-database core (tickerplant → CEP → RDB/idb → HDB → gateway)
-- [q-test](https://github.com/SpencerFX/q-test), a kdb+/q testing framework built by studying four existing ones (qunit, q-unit, qspec, resq) plus q-desc's fuzz-test generator
-- [ampsq](https://github.com/SpencerFX/ampsQ), a q/kdb+ extension embedding the 60East AMPS C++ client behind a C ABI
-- [lean-kdb](https://github.com/SpencerFX/lean-kdb), a kdb+ integration layer for the open-source QuantConnect LEAN engine
-- [qlearing](https://github.com/SpencerFX/qlearing), a kdb+/q library for clearing-related processing
-- [fxDB](https://github.com/SpencerFX/fxDB), a kdb+/q FX tick-database
-- [edinetToKdb](https://github.com/SpencerFX/edinetToKdb), a pipeline for EDINET (Japan financial disclosure) data into kdb+
-- [q-gis](https://github.com/SpencerFX/q-gis), kdb+/q geospatial tooling
-- [q-link](https://github.com/SpencerFX/q-link), code companion repo for LinkedIn articles on kdb+/q
-- [q-phrasebook-v2](https://github.com/SpencerFX/q-phrasebook-v2), additional q phrasebook entries for math/finance applications
+### Platform
 
-## Practice & Interview Prep
+- [openQ](https://github.com/SpencerFX/openQ) [Public] a lightweight, domain-generic kdb+ tick-database core (tickerplant → CEP → RDB/idb → HDB → gateway) [Public]
+- [fxDB](https://github.com/SpencerFX/fxDB) [Private] a kdb+/q FX tick-database
 
-- [HackerRankQ](https://github.com/SpencerFX/HackerRankQ), [leetcodeQ](https://github.com/SpencerFX/leetcodeQ), [interviewQ](https://github.com/SpencerFX/interviewQ), [q-Quiz](https://github.com/SpencerFX/q-Quiz) — coding practice and interview prep, mostly in q
-- [matrixAlgebraForEngineersQ](https://github.com/SpencerFX/matrixAlgebraForEngineersQ), [q-math-calculus](https://github.com/SpencerFX/q-math-calculus) — self-study notes and exercises in kdb+/q
-- [Itarle-Challenge](https://github.com/SpencerFX/Itarle-Challenge), a quant recruitment take-home exercise
+### Ingestion
+
+- [ampsq](https://github.com/SpencerFX/ampsQ) [Public] a q/kdb+ extension embedding the 60East AMPS C++ client behind a C API
+- [edinetToKdb](https://github.com/SpencerFX/edinetToKdb) [Public] a pipeline for EDINET (Japan financial disclosure) data into kdb+
+
+### Integration
+
+- [lean-kdb](https://github.com/SpencerFX/lean-kdb) [Public] a kdb+ integration layer for the open-source QuantConnect LEAN engine
+
+### Documentation
+
+- [q-link](https://github.com/SpencerFX/q-link) [Public] code companion repo for LinkedIn articles on kdb+/q
+
+### Library
+
+- [qlearing](https://github.com/SpencerFX/qlearing) [Public] a kdb+/q library for clearing-related processing
+- [q-gis](https://github.com/SpencerFX/q-gis) [Public] kdb+/q geospatial tooling
+
+## Interview Prep
+- [q-Quiz](https://github.com/SpencerFX/q-Quiz) — coding practice and interview prep, mostly in q [Public]
+- [HackerRankQ](https://github.com/SpencerFX/HackerRankQ) [Public]
+- [leetcodeQ](https://github.com/SpencerFX/leetcodeQ) [Public]
+- [interviewQ](https://github.com/SpencerFX/interviewQ) [Public] 
+
+## Math Studies
+- [matrixAlgebraForEngineersQ](https://github.com/SpencerFX/matrixAlgebraForEngineersQ) [Public]
+- [q-math-calculus](https://github.com/SpencerFX/q-math-calculus) [Public] self-study notes and exercises in kdb+/q
+- [Itarle-Challenge](https://github.com/SpencerFX/Itarle-Challenge) [Public] a quant recruitment take-home exercise
 
 ## Programming Languages
 
