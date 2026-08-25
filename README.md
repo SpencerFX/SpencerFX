@@ -1,4 +1,4 @@
-# Spencer Pruno
+# Spencer P
 
 Senior KDB+ Developer and Data Scientist with 8+ years of experience building
 high-performance kdb+/q tick-database and market-data infrastructure —
@@ -34,5 +34,5 @@ Active open-source contributor and tooling author.
 | q        | Expert |
 | kdb+     | Expert |
 | Python   | Expert |
-| C/C++    | Expert |
+| C/C++    | Interm |
 | Shell    | Expert |
