@@ -34,7 +34,7 @@ Active open-source contributor and tooling author.
 - [q-gis](https://github.com/SpencerFX/q-gis) [Public] kdb+/q geospatial tooling
 
 ## Interview Prep
-- [q-Quiz](https://github.com/SpencerFX/q-Quiz) — coding practice and interview prep, mostly in q [Public]
+- [q-Quiz](https://github.com/SpencerFX/q-Quiz) [Public] coding practice and interview prep, mostly in q
 - [HackerRankQ](https://github.com/SpencerFX/HackerRankQ) [Public]
 - [leetcodeQ](https://github.com/SpencerFX/leetcodeQ) [Public]
 - [interviewQ](https://github.com/SpencerFX/interviewQ) [Public] 
