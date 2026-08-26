@@ -17,7 +17,7 @@ Active open-source contributor and tooling author.
 
 ### Ingestion
 
-- [ampsq](https://github.com/SpencerFX/ampsQ) [Public] a q/kdb+ extension embedding the 60East AMPS C++ client behind a C API
+- [ampsQ](https://github.com/SpencerFX/ampsQ) [Public] a q/kdb+ extension embedding the 60East AMPS C++ client behind a C API
 - [edinetToKdb](https://github.com/SpencerFX/edinetToKdb) [Public] a pipeline for EDINET (Japan financial disclosure) data into kdb+
 
 ### Integration
