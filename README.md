@@ -12,7 +12,7 @@ Active open-source contributor and tooling author.
 
 ### Platform
 
-- [openQ](https://github.com/SpencerFX/openQ) [Public] a lightweight, domain-generic kdb+ tick-database core (tickerplant → CEP → RDB/idb → HDB → gateway) [Public]
+- [openQ](https://github.com/SpencerFX/openQ) [Public] a lightweight, domain-generic kdb+ tick-database core (tickerplant → CEP → RDB/idb → HDB → gateway)
 - [fxDB](https://github.com/SpencerFX/fxDB) [Private] a kdb+/q FX tick-database
 
 ### Ingestion
