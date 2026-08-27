@@ -12,17 +12,17 @@ Active open-source contributor and tooling author.
 
 ### Platform
 
-- [openQ](https://github.com/SpencerFX/openQ) [Public] a lightweight, domain-generic kdb+ tick-database core (tickerplant → CEP → RDB/idb → HDB → gateway)
-- [fxDB](https://github.com/SpencerFX/fxDB) [Private] a kdb+/q FX tick-database
+- [openQ](https://github.com/SpencerFX/openQ) [Public] A lightweight, domain-generic kdb+ tick-database core 
+- [fxDB](https://github.com/SpencerFX/fxDB) [Private] A complete kdb+/q FX tick-database
 
 ### Ingestion
 
-- [ampsQ](https://github.com/SpencerFX/ampsQ) [Public] a q/kdb+ extension embedding the 60East AMPS C++ client behind a C API
-- [edinetToKdb](https://github.com/SpencerFX/edinetToKdb) [Public] a pipeline for EDINET (Japan financial disclosure) data into kdb+
+- [ampsQ](https://github.com/SpencerFX/ampsQ) [Public] Extension embedding the 60East AMPS C++ client behind a C API
+- [edinetToKdb](https://github.com/SpencerFX/edinetToKdb) [Public] EDINET (Japan financial disclosure) data into kdb+
 
 ### Integration
 
-- [lean-kdb](https://github.com/SpencerFX/lean-kdb) [Public] a kdb+ integration layer for the open-source QuantConnect LEAN engine
+- [lean-kdb](https://github.com/SpencerFX/lean-kdb) [Public] Integration layer for the open-source QuantConnect LEAN engine
 
 ### Community
 
@@ -41,14 +41,14 @@ Active open-source contributor and tooling author.
 
 ## Interview Prep
 
-- [HackerRankQ](https://github.com/SpencerFX/HackerRankQ) [Public]
-- [leetcodeQ](https://github.com/SpencerFX/leetcodeQ) [Public]
-- [interviewQ](https://github.com/SpencerFX/interviewQ) [Public] 
+- [HackerRankQ](https://github.com/SpencerFX/HackerRankQ) [Public] - Solutions in Q
+- [leetcodeQ](https://github.com/SpencerFX/leetcodeQ) [Public] - Solutions in Q
+- [interviewQ](https://github.com/SpencerFX/interviewQ) [Public] - General Interview questions
 
 ## Math Studies
 
-- [eulerQ](https://github.com/SpencerFX/eulerQ) [Public]
-- [matrixAlgebraForEngineersQ](https://github.com/SpencerFX/matrixAlgebraForEngineersQ) [Public]
+- [eulerQ](https://github.com/SpencerFX/eulerQ) [Public] - Solutions in Q
+- [matrixAlgebraForEngineersQ](https://github.com/SpencerFX/matrixAlgebraForEngineersQ) [Public] - HKUST course in q
 - [q-math-calculus](https://github.com/SpencerFX/q-math-calculus) [Public] self-study notes and exercises in kdb+/q
 - [Itarle-Challenge](https://github.com/SpencerFX/Itarle-Challenge) [Public] a quant recruitment take-home exercise
 
