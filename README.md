@@ -13,6 +13,7 @@ Active open-source contributor and article author.
 ### Platform
 
 - [openQ](https://github.com/SpencerFX/openQ) [Public] A lightweight, domain-generic kdb+ tick-database core 
+- [openDash](https://github.com/SpencerFX/openDash) [Public] A react/JavaScript UI for openQ
 - [fxDB](https://github.com/SpencerFX/fxDB) [Private] A complete kdb+/q FX tick-database
 
 ### Ingestion
