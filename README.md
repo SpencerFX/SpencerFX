@@ -6,7 +6,7 @@ tickerplant/RDB/HDB architectures, real-time and historical data pipelines,
 feed handlers, and the testing/tooling that keeps them reliable. Also works
 in Python and C/C++ for data pipelines and native q extensions.
 
-Active open-source contributor and tooling author.
+Active open-source contributor and article author.
 
 ## Open Source Projects
 
@@ -57,7 +57,7 @@ Active open-source contributor and tooling author.
 | Repo | Progress | Roadmap |
 | ---- | -------- | ------- |
 | [openQ](https://github.com/SpencerFX/openQ) | Working tick pipeline (TP/RDB/HDB/gateway/CEP/tmphdb); 20 integration checks passing; can front an existing on-disk HDB read-only | Shared `.oq.sub.*` subscribe helper to dedup RDB/CEP/tmphdb; live WebSocket feed handler (blocked on local kdb+ build); wire up openDash |
-| [fxDB](https://github.com/SpencerFX/fxDB) | Complete private FX tick-database; the production reference openQ is distilled from | Maintenance only; fold hardened features back into openQ |
+| [fxDB](https://github.com/SpencerFX/fxDB) | Complete private FX tick-database; Done | Maintenance only |
 | [ampsQ](https://github.com/SpencerFX/ampsQ) | C ABI + q API implemented; off-thread `eventfd` → `sd1()` delivery; publish/subscribe example scripts | CI build against the AMPS SDK; reconnect/failover; bookmark (replay) subscriptions; broaden past Linux x86-64 |
 | [edinetToKdb](https://github.com/SpencerFX/edinetToKdb) | Python download + parse pipeline loading EDINET disclosures into kdb+ | Add README/usage docs; incremental sync; cover more disclosure form types |
 | [lean-kdb](https://github.com/SpencerFX/lean-kdb) | Phase 1: C# `KdbPlus` history provider + q gateway; `dotnet test` 2/2, q side verified locally | End-to-end run via Docker/WSL2; real-time data feed; brokerage/order routing |
