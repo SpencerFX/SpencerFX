@@ -6,7 +6,7 @@ tickerplant/RDB/HDB architectures, real-time and historical data pipelines,
 feed handlers, and the testing/tooling that keeps them reliable. Also works
 in Python and C/C++ for data pipelines and native q extensions.
 
-Active open-source contributor and tooling author.
+Active open-source contributor and article author.
 
 ## Open Source Projects
 
