@@ -37,6 +37,7 @@ Active open-source contributor and article author.
 ### Library
 
 - [q-test](https://github.com/SpencerFX/q-test) [Public] a kdb+/q testing framework built by studying four existing ones (qunit, q-unit, qspec, resq) plus q-desc's fuzz-test generator
+- [q-desc](https://github.com/SpencerFX/q-desc) [Public] a library that holds syntax descriptions and code analysis functions
 - [qlearing](https://github.com/SpencerFX/qlearing) [Public] a kdb+/q library for clearing-related processing
 - [q-gis](https://github.com/SpencerFX/q-gis) [Public] kdb+/q geospatial tooling
 
